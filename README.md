@@ -1,3 +1,5 @@
+> [!WARNING]
+> This project is no longer maintained or has been moved to [github.com/InledGroup](https://github.com/InledGroup) or [github.com/Inled-Pulsar-OS](https://github.com/Inled-Pulsar-OS)
 ## Win11OS KDE Theme
 
 Win11OS kde is a light clean theme for KDE Plasma desktop.
